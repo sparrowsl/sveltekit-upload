@@ -1,2 +1,4 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<form action="" enctype="multipart/form-data" method="post">
+	<input type="file" name="avatar" placeholder="avatar" accept="" />
+	<button type="submit">upload</button>
+</form>
